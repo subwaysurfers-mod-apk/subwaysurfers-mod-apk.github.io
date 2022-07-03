@@ -35,46 +35,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Subway Surfers Mod APK
+    description                           : Do you love playing Subway Surfers? If yes, then you would be glad to know that there is a Subway Surfers mod apk available that will make your game play even more exciting. With the mod apk, you will get unlimited coins and keys so that you can keep on playing the game without any interruptions. The mod apk is also updated regularly so that you can continue to enjoy all the new features and updates in the game.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Everything Unlocked & Unlocked
+    description                           : Are you looking for a way to unblock Subway Surfers? If so, you’re in luck! There are several methods you can use, depending on your location. If you’re in the United States, you can use a VPN to unblock the game. A VPN will encrypt your traffic and route it through a server in a location of your choice. This will allow you to access content that is blocked in your location. If you’re not in the United States, you can use a proxy server to unblock Subway Surfers. A proxy server will redirect your traffic through its own servers, allowing you to access content that is blocked in your location.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
 
 
 # Theme Settings
